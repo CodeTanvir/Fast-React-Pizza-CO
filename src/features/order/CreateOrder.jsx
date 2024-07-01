@@ -132,7 +132,7 @@ export async function action({request}){
   errors.phone = "Please give us correct phone number. we might need this"
   
   if(Object.keys(errors).length > 0) return errors;
-console.log(order)
+
 
  const newOrder = await createOrder(order);
  store.dispatch(clearCart())
