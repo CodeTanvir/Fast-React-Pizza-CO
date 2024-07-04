@@ -6,27 +6,27 @@ Craving a delicious pizza? Look no further! FAST REACT PIZZA CO. is your go-to o
 
 🍕 About the App:
 
-#.Order from Menu: Browse our mouth-watering menu and add your favorite pizzas to your cart.
+.**Order from Menu**: Browse our mouth-watering menu and add your favorite pizzas to your cart.
 
-.Adjust Quantities: Need more? Less? Easily increase or decrease the quantity of any item in your cart.
+.**Adjust Quantities**: Need more? Less? Easily increase or decrease the quantity of any item in your cart.
 
-.Remove Items: Changed your mind? Delete any item from your cart effortlessly.
+.**Remove Items**: Changed your mind? Delete any item from your cart effortlessly.
 
-.Place Your Order: Enter your phone number and address to place your order. Use our handy "Get Position" button to quickly fill in your address.
+.**Place Your Order**: Enter your phone number and address to place your order. Use our handy "Get Position" button to quickly fill in your address.
 
-.Track Your Order: After placing your order, receive an OrderId and get redirected to your order list. Stay updated with your order status: preparing, on the way, or arrived.
+.**Track Your Order**: After placing your order, receive an OrderId and get redirected to your order list. Stay updated with your order status: preparing, on the way, or arrived.
 
-.Search Orders: Need to check on an order? Use our search field to find your order anytime.
+.**Search Orders**: Need to check on an order? Use our search field to find your order anytime.
 
-.Download Receipt: Once your order is complete, download your receipt as a PDF for your records.
+.**Download Receipt**: Once your order is complete, download your receipt as a PDF for your records.
 
-💻 Frontend Tech Stack:
+💻 **Frontend Tech Stack**:
 
-.Frameworks & Libraries: React, Redux, Tailwind-CSS, JavaScript
+._**Frameworks & Libraries**_: React, Redux, Tailwind-CSS, JavaScript
 
-.Additional Packages: react-router-dom, react-redux, redux-toolkit
+.**_Additional Packages_**: react-router-dom, react-redux, redux-toolkit
 
-.Development Environment: Vitejs
+._Development Environment_: Vitejs
 
 🔧 Backend Tech Stack:
 .Frameworks & Libraries: Node, Express
