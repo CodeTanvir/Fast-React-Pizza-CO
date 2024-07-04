@@ -6,7 +6,7 @@ Craving a delicious pizza? Look no further! FAST REACT PIZZA CO. is your go-to o
 
 🍕 About the App:
 
-.Order from Menu: Browse our mouth-watering menu and add your favorite pizzas to your cart.
+#.Order from Menu: Browse our mouth-watering menu and add your favorite pizzas to your cart.
 
 .Adjust Quantities: Need more? Less? Easily increase or decrease the quantity of any item in your cart.
 
